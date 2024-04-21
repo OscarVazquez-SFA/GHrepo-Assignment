@@ -10,3 +10,5 @@ Commit 9: About to merge bug-fix-experimental branch to bug-fix branch
 Commit 10: Pushing changes made to the main branch 
 Node 11: Merged bug-fix-experimental branch into the bug-fix branch 
 Commit 12: Pushing changes to the bug-fix branch (Setting up a merge conflict)
+Node 13: Merged bug-fix branch into the main branch 
+Commit 14: Pushing final changes to the main branch.
